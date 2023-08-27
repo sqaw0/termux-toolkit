@@ -1,0 +1,23 @@
+##Settings:
+#If you want use function, write on the line after the function y.
+#(If you want use spoof or/and, print on the line after y IP/IPs for spoof/noising)
+#Verbose[y]:
+y
+#Debug[y]:
+n
+#Spoof[y/ip]:
+n
+0.0.0.0
+#Decoy[y/ips]:
+n
+0.0.0.0
+#Output format[-oN/-oX/-oS/-oG]:
+n
+-oN
+scnfile
+#Timing[y/1,2,3,4,5]:
+n
+0
+#Ports viev:
+n
+--open
