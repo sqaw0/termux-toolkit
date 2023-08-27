@@ -1,5 +1,5 @@
-## termux-toolkit by sqaw0
-Pakage of tools for Termux. UwU
+## Termux-Toolkit by sqaw0
+Pakage of tools for Termux.
 
 Requirements:
 
@@ -25,3 +25,5 @@ iPhoto.sh - Read and delite exif info of photo (v.1b)
 iIP.sh - Getting info about WAN IP (v.1b)
 
 sLAN.sh - Very simple LAN scaner ( simple srypt) (v.1b)
+
+#Thanks for download!
