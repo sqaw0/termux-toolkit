@@ -26,6 +26,6 @@ asms.sh - Shortcut for SMS in Termux
 
 ##To do:
 
-sLAN.sh - Very simple LAN scaner ( simple srypt) (v.1b)
+sLAN.sh - Very simple LAN scaner (simple srypt) (v.1b)
 
-#Thanks for download!
+#Thanks!
