@@ -22,6 +22,8 @@ photoi.sh - Read and delite exif info of photo (v.1b)
 
 ipinfo.sh - Getting info about WAN IP (v.1b)
 
+asms.sh - Shortcut for SMS in Termux
+
 ##To do:
 
 sLAN.sh - Very simple LAN scaner ( simple srypt) (v.1b)
